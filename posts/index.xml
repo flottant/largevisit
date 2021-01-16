@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on flot的博客</title>
-    <link>/posts/</link>
+    <link>https://flota.now.sh/posts/</link>
     <description>Recent content in Posts on flot的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="https://flota.now.sh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO3镜像列表（更新于2021年1月9日）</title>
-      <link>/posts/ao3/</link>
+      <link>https://flota.now.sh/posts/ao3/</link>
       <pubDate>Sat, 16 Jan 2021 11:06:39 +0800</pubDate>
       
-      <guid>/posts/ao3/</guid>
+      <guid>https://flota.now.sh/posts/ao3/</guid>
       <description>&lt;p&gt;更新日期 2021年1月9日&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>个人博客经验漫谈</title>
-      <link>/posts/how-to-blog/</link>
+      <link>https://flota.now.sh/posts/how-to-blog/</link>
       <pubDate>Sat, 16 Jan 2021 11:17:48 +0800</pubDate>
       
-      <guid>/posts/how-to-blog/</guid>
+      <guid>https://flota.now.sh/posts/how-to-blog/</guid>
       <description>&lt;p&gt;给已经有经验的博客使用者。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>碎甲</title>
-      <link>/posts/suijia/</link>
+      <link>https://flota.now.sh/posts/suijia/</link>
       <pubDate>Fri, 15 Jan 2021 21:04:37 +0800</pubDate>
       
-      <guid>/posts/suijia/</guid>
+      <guid>https://flota.now.sh/posts/suijia/</guid>
       <description>&lt;p&gt;本文由旻天鹤唳在此博客首发。&lt;/p&gt;</description>
     </item>
     
