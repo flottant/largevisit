@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on flot的博客</title>
-    <link>https://blog.flot.tech/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on flot的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="https://blog.flot.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO3镜像列表（更新于2021年1月9日）</title>
-      <link>https://blog.flot.tech/posts/ao3/</link>
+      <link>/posts/ao3/</link>
       <pubDate>Sat, 16 Jan 2021 11:06:39 +0800</pubDate>
       
-      <guid>https://blog.flot.tech/posts/ao3/</guid>
+      <guid>/posts/ao3/</guid>
       <description>&lt;p&gt;更新日期 2021年1月9日&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>个人博客经验漫谈</title>
-      <link>https://blog.flot.tech/posts/how-to-blog/</link>
+      <link>/posts/how-to-blog/</link>
       <pubDate>Sat, 16 Jan 2021 11:17:48 +0800</pubDate>
       
-      <guid>https://blog.flot.tech/posts/how-to-blog/</guid>
+      <guid>/posts/how-to-blog/</guid>
       <description>&lt;p&gt;给已经有经验的博客使用者。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>碎甲</title>
-      <link>https://blog.flot.tech/posts/suijia/</link>
+      <link>/posts/suijia/</link>
       <pubDate>Fri, 15 Jan 2021 21:04:37 +0800</pubDate>
       
-      <guid>https://blog.flot.tech/posts/suijia/</guid>
+      <guid>/posts/suijia/</guid>
       <description>&lt;p&gt;本文由旻天鹤唳在此博客首发。&lt;/p&gt;</description>
     </item>
     
