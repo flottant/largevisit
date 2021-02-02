@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on flot的博客</title>
-    <link>https://flot.now.sh/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://flot.tech/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on flot的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="https://flot.now.sh/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 11:17:48 +0800</lastBuildDate><atom:link href="https://flot.tech/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>个人博客经验漫谈</title>
-      <link>https://flot.now.sh/posts/how-to-blog/</link>
+      <link>https://flot.tech/posts/how-to-blog/</link>
       <pubDate>Sat, 16 Jan 2021 11:17:48 +0800</pubDate>
       
-      <guid>https://flot.now.sh/posts/how-to-blog/</guid>
+      <guid>https://flot.tech/posts/how-to-blog/</guid>
       <description>&lt;p&gt;给已经有经验的博客使用者。&lt;/p&gt;</description>
     </item>
     

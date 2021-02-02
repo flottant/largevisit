@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on flot的博客</title>
-    <link>https://flot.now.sh/posts/</link>
+    <link>https://flot.tech/posts/</link>
     <description>Recent content in Posts on flot的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 20:22:09 +0800</lastBuildDate><atom:link href="https://flot.now.sh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 17:25:56 +0800</lastBuildDate><atom:link href="https://flot.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO3镜像列表（更新于2021年1月9日）</title>
-      <link>https://flot.now.sh/posts/ao3/</link>
+      <link>https://flot.tech/posts/ao3/</link>
       <pubDate>Sat, 16 Jan 2021 11:06:39 +0800</pubDate>
       
-      <guid>https://flot.now.sh/posts/ao3/</guid>
+      <guid>https://flot.tech/posts/ao3/</guid>
       <description>&lt;p&gt;更新日期 2021年1月9日&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Pixiv画师推荐</title>
+      <link>https://flot.tech/posts/pixiv-recommend/</link>
+      <pubDate>Mon, 01 Feb 2021 17:25:56 +0800</pubDate>
+      
+      <guid>https://flot.tech/posts/pixiv-recommend/</guid>
+      <description>&lt;p&gt;多图预警！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Bilibili录播姬是什么？</title>
-      <link>https://flot.now.sh/posts/bili-record-helper/</link>
+      <link>https://flot.tech/posts/bili-record-helper/</link>
       <pubDate>Tue, 26 Jan 2021 20:22:09 +0800</pubDate>
       
-      <guid>https://flot.now.sh/posts/bili-record-helper/</guid>
+      <guid>https://flot.tech/posts/bili-record-helper/</guid>
       <description>&lt;h1 id=&#34;软件官网&#34;&gt;软件官网&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://rec.danmuji.org/&#34;&gt;https://rec.danmuji.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>个人博客经验漫谈</title>
-      <link>https://flot.now.sh/posts/how-to-blog/</link>
+      <link>https://flot.tech/posts/how-to-blog/</link>
       <pubDate>Sat, 16 Jan 2021 11:17:48 +0800</pubDate>
       
-      <guid>https://flot.now.sh/posts/how-to-blog/</guid>
+      <guid>https://flot.tech/posts/how-to-blog/</guid>
       <description>&lt;p&gt;给已经有经验的博客使用者。&lt;/p&gt;</description>
     </item>
     
