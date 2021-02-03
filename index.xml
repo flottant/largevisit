@@ -5,7 +5,7 @@
     <link>https://flot.tech/</link>
     <description>Recent content on flot的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Feb 2021 17:25:56 +0800</lastBuildDate><atom:link href="https://flot.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 20:22:09 +0800</lastBuildDate><atom:link href="https://flot.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AO3镜像列表（更新于2021年1月9日）</title>
       <link>https://flot.tech/ao3/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://flot.tech/posts/ao3/</guid>
       <description>&lt;p&gt;更新日期 2021年1月9日&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ZY player，多资源聚合影视资源观看神器</title>
+      <link>https://flot.tech/posts/zy-player/</link>
+      <pubDate>Wed, 03 Feb 2021 20:22:09 +0800</pubDate>
+      
+      <guid>https://flot.tech/posts/zy-player/</guid>
+      <description>&lt;p&gt;开源的影视资源解决方案。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -51,30 +60,6 @@
       
       <guid>https://flot.tech/posts/how-to-blog/</guid>
       <description>&lt;p&gt;给已经有经验的博客使用者。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://flot.tech/posts/zy-player/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://flot.tech/posts/zy-player/</guid>
-      <description>title: &amp;ldquo;ZY player：多资源聚合影视资源观看神器&amp;rdquo; date: 2021-02-03T20:22:09+08:00 draft: false ShowToc: true TocOpen: true tags: [&amp;ldquo;软件&amp;rdquo;, &amp;ldquo;推荐&amp;rdquo;] categories: [&amp;ldquo;推荐&amp;rdquo;]
-ZY player Github 上的高星开源视频资源播放器。
-文档：http://zyplayer.fun/doc/
-最新版帮助：
-安装新版本后不工作/部分功能不正常
-数据文件夹位置可参考相应系统下chrome的配置文件夹路径
-Windows下,请清理 AppData\Roaming\zy文件夹
-linux下，请清理~/.config/zy
-MacOS下，请清理Users/用户名/Library/Application Support/zy
-MacOS更新报错，重新安装打不开A JavaScript error occurred in the main process请参考 #593
-清理后重置软件，再重试.
-安装新版后部分功能不正常也可以按上述操作，如果还是不行请报bug
-以下摘自 github 官方介绍页面。
-官网：http://zyplayer.fun/
-参与开发：https://github.com/Hunlongyu/ZY-Player/
-✨特性  🍕 全平台支持. Windows, Mac, Linux 🍥 支持 IPTV, 卫视直播 🍔 视频源支持自定义, 支持导入, 导出 🍟 支持海报模式和列表模式浏览资源 🌭 播放历史, 自动跳转历史进度 🍿 收藏夹支持导入,导出, 支持同步追剧 🥙 支持精简模式, 摸鱼划水 🥪 一键搜索所有资源, 支持历史搜索记录 🌮 导出资源下载链接 🍣 支持第三方播放器播放 🍤 显示豆瓣评分  🌴 下载  🍓 Github &amp;ndash; 官方下载 🍉 蓝奏云 &amp;ndash; 快速下载 密码:95px 🍒 适用于32位操作系统的x86软件,在蓝奏云网盘里, 后缀名: ZY Player * 32位.</description>
     </item>
     
     <item>
