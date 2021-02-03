@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件 on flot的博客</title>
+    <link>https://flot.tech/tags/%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 软件 on flot的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 20:22:09 +0800</lastBuildDate><atom:link href="https://flot.tech/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bilibili录播姬是什么？</title>
+      <link>https://flot.tech/posts/bili-record-helper/</link>
+      <pubDate>Tue, 26 Jan 2021 20:22:09 +0800</pubDate>
+      
+      <guid>https://flot.tech/posts/bili-record-helper/</guid>
+      <description>&lt;h1 id=&#34;软件官网&#34;&gt;软件官网&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://rec.danmuji.org/&#34;&gt;https://rec.danmuji.org/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
